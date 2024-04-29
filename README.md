@@ -1,24 +1,35 @@
-# Project Description
+# CustomSheet
 
-Action sheet withous sheet presentation
+CustomSheet is a demo application that showcases how to implement a custom sheet effect in SwiftUI.
 
-This repository contains a demo project built using SwiftUI, to show drag gestures to show view from bottom.
+## Description
 
-## Getting Started
+CustomSheet uses SwiftUI to create a view that simulates the behavior of a custom sheet that scrolls up and down in response to user gestures.
+The sheet consists of two parts: a top part and a bottom part, which dynamically adjust based on user interaction.
 
-To run the project locally, follow these steps:
+## Features
 
-1. Clone this repository to your local machine.
-2. Open the project in Xcode.
-3. Build and run the project on your desired iOS or macOS device/simulator.
+- Scroll the sheet up and down using swipe gestures.
+- Automatically adjust the sheet's height based on user interaction.
+- Bounce animation when reaching the sheet's boundaries.
+- Automatic scrolling of the sheet with animations.
+
+## Usage
+
+To try out the application, simply run the project in Xcode.
+You can scroll the sheet using swipe gestures and observe how it dynamically adjusts in response to your interaction.
+
+## Screenshots
+
+(Add screenshots of your application in action here!)
 
 ## Requirements
 
 - Xcode 15 or later
 
-## Contributing
+## Contribution
 
-Contributions to this project are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have ideas to improve this application, feel free to submit a pull request.
 
 ## License
 
