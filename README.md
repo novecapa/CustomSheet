@@ -2,7 +2,7 @@
 
 Action sheet withous sheet presentation
 
-This repository contains a demo project built using SwiftUI. 
+This repository contains a demo project built using SwiftUI, to show drag gestures to show view from bottom.
 
 ## Getting Started
 
