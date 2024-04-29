@@ -19,9 +19,10 @@ The sheet consists of two parts: a top part and a bottom part, which dynamically
 To try out the application, simply run the project in Xcode.
 You can scroll the sheet using swipe gestures and observe how it dynamically adjusts in response to your interaction.
 
-## Screenshots
+## Media
 
-(Add screenshots of your application in action here!)
+https://github.com/novecapa/CustomSheet/assets/16121312/b65c332d-1cea-4e6d-beac-0acb7a8b1b95
+
 
 ## Requirements
 
